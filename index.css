@@ -14,7 +14,8 @@
 }
 .header__image--name {
     position: relative;
-    top: 300px
+    top: 300px;
+    max-width: auto;
 }
 
 .header__image--name h1 {
